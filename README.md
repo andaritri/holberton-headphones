@@ -1,11 +1,13 @@
 # 0x09. Implement a design from scratch 
 
-In this project, you will implement from scratch, without any library, a web page. You will use all HTML/CSS/Accessibility/Responsive design knowledges that you learned previously. :100:
+In this project, we will implement from scratch, without any library, a web page. We will use all HTML/CSS/Accessibility/Responsive design knowledges that you learned previously.
+
+We won’t have a lot of instruction, we are free to implement it the way that we want - the objective is simple: Have a fully functional web page that looks the same as the designer file.
 
 
 
 
- :heavy_check_mark: Here the final result:
+Here the final result:
 
 ![implement design from scratch](https://user-images.githubusercontent.com/53787841/105736385-ba978e80-5f02-11eb-93cc-084ec4a8dddf.jpg)
 
@@ -37,8 +39,6 @@ In this project, you will implement from scratch, without any library, a web pag
 
 ---
 
-## Author :nerd_face:
+## Author:
 
-- [GitHub - Ricardo Arquímedes](https://github.com/RicardoArquimedes/)
-- [Twitter - Arquímedescq](https://twitter.com/arquimedescq)
-- [LinkedIn - Ricardo Arquímedes](https://www.linkedin.com/in/RicardoArquimedes/)
+- Andres Ariza
